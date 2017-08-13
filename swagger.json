@@ -5,7 +5,7 @@
     "title": "Users Service",
     "description": "Swagger spec for documenting the users service"
   },
-  "host": "http://flask-microservices-staging-alb-1366920567.us-east-1.elb.amazonaws.com",
+  "host": "flask-microservices-staging-alb-1366920567.us-east-1.elb.amazonaws.com",
   "schemes": [
     "http"
   ],
